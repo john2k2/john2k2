@@ -32,10 +32,10 @@ Tools     →  Git · Figma · Vite
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=john2k2&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d084&icon_color=00d084&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john2k2&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d084&langs_count=6)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=john2k2&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=john2k2&theme=dark&hide_border=true&background=0d1117&ring=00d084&fire=00d084&currStreakLabel=00d084)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=john2k2&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=john2k2&theme=github_dark)
 
 ---
 
