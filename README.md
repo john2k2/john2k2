@@ -2,48 +2,49 @@
 
 **Full-Stack Developer · Micro-SaaS Builder · Founder @ [John Labs](https://johnlabs.dev)**
 
-Construyo productos digitales rápidos, escalables y con stack moderno desde Argentina 🇦🇷
+Construyo productos digitales y apps a medida con stack moderno desde Argentina 🇦🇷
 
 ---
 
-## 🚀 Proyectos en producción
+## 🚀 Producto estrella
+
+| Proyecto | Qué resuelve | Live |
+|---|---|---|
+| **[ReservaYa](https://github.com/john2k2/reservaloYa)** | Turnos online multi-tenant para barberías, peluquerías y negocios chicos (reemplaza WhatsApp) | [reservaya.ar](https://reservaya.ar) |
+
+---
+
+## 🛠 Selected work
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [VouchKit](https://johnlabs.dev) | Plataforma de testimonios en video y texto con Wall of Love embebible | Next.js · Supabase · Stripe |
-| [DevLens](https://github.com/john2k2/devlens) | Chrome extension con IA para bug reporting. Exporta a Jira/GitHub | React · Gemini AI · Supabase |
-| [Manga Tracker](https://github.com/john2k2/manga-tracker) | Web app para trackear mangas | Vite · React · TypeScript |
-| [Kanban Minimal](https://github.com/john2k2/Kanban-minimal) | Gestión de tareas full-stack | Next.js · React · TypeScript |
-| [Mini SaaS](https://github.com/john2k2/mini-saas) | Plataforma SaaS estilo fintech con suscripciones | Next.js · Stripe · NextAuth · Prisma |
+| [Comparador Hardware AR](https://github.com/john2k2/comparador-hardware-argentina) | Compará precios de hardware en tiendas argentinas | Next.js · Supabase · Scraping |
+| [DevLens](https://github.com/john2k2/devlens) | Chrome extension con IA para bug reporting → Jira/GitHub | React · Gemini · TypeScript |
+| [Kanban Minimal](https://github.com/john2k2/Kanban-minimal) | Board accesible con drag-and-drop y dark mode | Next.js · React · Tailwind |
 
 ---
 
-## 🛠️ Stack
+## 💼 ¿Necesitás algo similar?
 
-```
-Frontend  →  Next.js · React · TypeScript · Tailwind CSS · Vue.js
-Backend   →  Supabase · Node.js · Python · Prisma
-Payments  →  Stripe · Lemon Squeezy
-Deploy    →  Vercel · Edge Functions
-Tools     →  Git · Figma · Vite
-```
+En **[John Labs](https://johnlabs.dev)** diseño y desarrollo Micro-SaaS, paneles y apps full-stack (Next.js · TypeScript · Supabase · Vercel).
+
+→ Portfolio y contacto: [johnlabs.dev](https://johnlabs.dev)
 
 ---
 
-## 📊 Stats
+## 🧰 Stack
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=john2k2&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=john2k2&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=john2k2&theme=github_dark)
+```
+Frontend  →  Next.js · React · TypeScript · Tailwind CSS
+Backend   →  Supabase · Node.js · Prisma
+Payments  →  MercadoPago · Stripe
+Deploy    →  Vercel
+```
 
 ---
 
 ## 📫 Contacto
 
-- 🌐 Portfolio & Productos: [johnlabs.dev](https://johnlabs.dev)
-- - 💼 LinkedIn: [linkedin.com/in/jonathanortiz-dev](https://linkedin.com/in/jonathanortiz-dev)
- 
-  - ---
-
-  *Building the future, simply.* ⚡
+- 🌐 [johnlabs.dev](https://johnlabs.dev)
+- 💼 [LinkedIn](https://linkedin.com/in/jonathanortiz-dev)
+- 🐙 GitHub: [@john2k2](https://github.com/john2k2)
